@@ -25,7 +25,7 @@ All these messages will be sent to the channel saved with `!set welcome`. **Use 
 
 `{user(id)}` - The ID of the user
 
-`{user(proper)}` - The name including the last four digits \(Carl\#0001\).
+`{user(proper)}` - The name including the last four digits \(Carl\#0001\)
 
 `{server(members)}` - The number of members on the server \(after the event has happened\). Use `{ord:{server(members)}}` to turn 8102 into 8,102nd etc.
 
